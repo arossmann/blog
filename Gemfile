@@ -6,7 +6,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 4.3.3"
 gem "webrick"
 gem "bigdecimal"
 gem "base64"
