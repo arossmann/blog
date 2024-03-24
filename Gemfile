@@ -8,6 +8,9 @@ source "https://rubygems.org"
 #
 gem "jekyll", "~> 4.2.0"
 gem "webrick"
+gem "bigdecimal"
+gem "base64"
+gem "csv"
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
