@@ -8,6 +8,7 @@ baseurl: ""
 include: ["_pages"]
 permalink: /:title/
 url: "https://blog-8vba.onrender.com"
+disqus: "arnesblog"
 # Authors
 authors:
   arne:
