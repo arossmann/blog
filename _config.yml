@@ -4,16 +4,16 @@ title: "Arnes Blog"
 description: "My blog conserving my journey"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
-baseurl: /blog
+baseurl: ""
 include: ["_pages"]
 permalink: /:title/
-
+url: "https://blog-8vba.onrender.com"
 # Authors
 authors:
   arne:
     name: Arne
     display_name: Arne
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: arne.rossmann@gmail.com
     web: https://arne-rossmann.me
 plugins:
