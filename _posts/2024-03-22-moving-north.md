@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /assets/images/IMG_0777.jpeg
+image: assets/images/IMG_0777.jpeg
 title: Moving North
 categories: Blog
 author: arne
