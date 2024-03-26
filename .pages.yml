@@ -10,37 +10,14 @@ content:
       fields: [cover, title]
     fields:
       - { name: layout, type: string, hidden: true, default: post }
-      - { name: cover, label: Cover image, type: image }
+      - { name: image, label: Cover image, type: image }
       - { name: title, label: Title, type: string, required: true }
       - {
           name: categories,
           label: Categories,
           type: select,
-          options: { values: ["misc", "junk"] },
+          options: { values: ["misc", "junk", "Blog", "Moving", "Sweden"] },
         }
       - { name: author, label: Authors, type: string, list: true }
       - { name: meta, label: Meta, type: string }
       - { name: body, label: Body, type: rich-text }
-  
-      - name: minima
-        label: Minima settings
-        description: Minima specific settings, which are only available from Minima 3.0 onward.
-        type: object
-        fields:
-          - {
-              name: skin,
-              label: Skin,
-              type: select,
-              options:
-                {
-                  values:
-                    [
-                      "classic",
-                      "dark",
-                      "auto",
-                      "solarized-light",
-                      "solarized-dark",
-                      "solarized",
-                    ],
-                },
-            }
