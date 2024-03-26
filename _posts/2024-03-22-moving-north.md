@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Moving North"
-author: arne
-categories: [Blog, Moving, Sweden]
-image: assets/images/IMG_0777.jpeg
-featured: true
-hidden: true
+image: /assets/images/IMG_0777.jpeg
+title: Moving North
+categories: Blog
+author:
+  - arne
 ---
-
 (English below)
 
 So, dann wollen wir mal. Nachdem ich zu Studiumszeiten schon einen Blog hatte, ist es dann aber recht ruhig geworden. Die üblichen Gründe, weniger "spannende Sachen", einfach keine Muse oder Zeit oder sonstige Gründe. Es gab zwar immer mal wieder ein paar Posts, aber viel war es nicht. Naja, dann jetzt mal wieder.
