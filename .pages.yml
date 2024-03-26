@@ -18,6 +18,6 @@ content:
           type: select,
           options: { values: ["misc", "junk", "Blog", "Moving", "Sweden"] },
         }
-      - { name: author, label: Authors, type: string, list: true }
+      - { name: author, label: Authors, type: string }
       - { name: meta, label: Meta, type: string }
       - { name: body, label: Body, type: rich-text }
