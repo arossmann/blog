@@ -1,7 +1,7 @@
 ---
 layout: post
 image: assets/images/IMG_2009.jpeg
-title: back to the roots
+title: home stop over
 categories: Blog
 author: arne
 ---
