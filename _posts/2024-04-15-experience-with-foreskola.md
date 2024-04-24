@@ -2,6 +2,7 @@
 layout: post
 title: Experience with föreskola
 categories: Sweden
+image: assets/images/IMG_1739.jpg
 author: arne
 ---
 Kleine Erfahrung zum Umgang mit den förskola in Schweden bzw. Erfahrung, die wir mit den entsprechenden Behörden sammeln konnten. Wir hatten uns für Plätze in förskolas in Göteborg rund um die Wohnung. Erste Rückmeldung: “Vielen Dank für Ihre Anfrage. Sie befinden sich auf der Warteliste und die reguläre Einstiegsszeit ist dann ab August.” Und ist in unserem Umfeld zu Umkreis von 2 km wohl nicht 100 % gesichert, dass ein Platz frei ist. Na ja noch mal rum geschaut auf der Webseite von dem entsprechenden Amt, die Adresse eingegeben und findet man im Umkreis von zwei 3 km eine sehr hohe Anzahl an föresklolas,  also Kinderkrippe und Kindergarten kombiniert (geht in Schweden von 1-5 Jahren). Und hier haben sie  eine extrem hohe Dichte an solchen Einrichtungen, ich glaub 800 oder so (privat und staatlich) in Göteborg gesamt.
