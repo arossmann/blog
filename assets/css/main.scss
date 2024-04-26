@@ -13,6 +13,13 @@
 	"syntax",
     "starsnonscss"
 ;
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .card {
   overflow: visible;
   width: 300px;
