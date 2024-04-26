@@ -9,7 +9,7 @@ comments: true
   {% for book in site.data.music-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
-    {% assign cover=record.image %}
+    {% assign image=record.image %}
     {% include record.html %}
   {% endfor %}
 </main>
@@ -18,7 +18,7 @@ comments: true
   {% for book in site.data.movie-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
-    {% assign cover=record.image %}
+    {% assign image=record.image %}
     {% include record.html %}
   {% endfor %}
 </main>
