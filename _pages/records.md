@@ -6,7 +6,7 @@ comments: true
 ---
 ## Music
 <main>
-  {% for book in site.data.music-records  %}
+  {% for record in site.data.music-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
     {% assign image=record.image %}
@@ -15,7 +15,7 @@ comments: true
 </main>
 ## Movies
 <main>
-  {% for book in site.data.movie-records  %}
+  {% for record in site.data.movie-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
     {% assign image=record.image %}
