@@ -6,11 +6,18 @@ comments: true
 ---
 ## Music
 
-<main>
   {% for book in site.data.music-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
     {% assign cover=record.image %}
     {% include record.html %}
   {% endfor %}
-</main>
+
+## Movies
+
+  {% for book in site.data.movie-records  %}
+    {% assign title=record.title %}
+    {% assign artist=record.artist %}
+    {% assign cover=record.image %}
+    {% include record.html %}
+  {% endfor %}
