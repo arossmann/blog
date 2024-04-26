@@ -2,7 +2,7 @@
 layout: page
 title: My Vinyl collection
 permalink: /vinyl
-comments: true
+comments: false
 ---
 ## Music
 <div class="clearfix">
