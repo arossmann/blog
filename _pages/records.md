@@ -4,7 +4,16 @@ title: My Vinyl collection
 permalink: /vinyl
 comments: false
 ---
+
+## Hardware
+
+- Pro-Ject 1-Xpression Carbon Classic
+- Ortofon 2M Silver
+- Dynaudio Emit M20
+- NAD C338
+
 ## Music
+
 <div class="clearfix">
   {% for record in site.data.music-records  %}
     {% assign title=record.title %}
