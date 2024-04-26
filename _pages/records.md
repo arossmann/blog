@@ -4,13 +4,13 @@ title: My Vinyl collection
 permalink: /vinyl
 comments: true
 ---
-# Leadership
+## Music
 
 <main>
-  {% for book in site.data.records  %}
+  {% for book in site.data.music-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
-    {% assign cover=record.cover %}
+    {% assign cover=record.image %}
     {% include record.html %}
   {% endfor %}
 </main>
