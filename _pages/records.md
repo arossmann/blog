@@ -12,9 +12,9 @@ comments: true
     {% assign cover=record.image %}
     {% include record.html %}
   {% endfor %}
-
+</main>
 ## Movies
-
+<main>
   {% for book in site.data.movie-records  %}
     {% assign title=record.title %}
     {% assign artist=record.artist %}
