@@ -15,9 +15,9 @@ Und diese Dichte ist schon toll, man kann quasi egal wo lang gehen und findet na
 After a month in Sweden, here's a quick word about playgrounds (Swedish: lekplats). Gothenburg has (according to its own [website](https://goteborg.se/wps/portal/start/uppleva-och-gora/parker-och-lekplatser/lekplatser/hitta-lekplatser)) 300 playgrounds and it feels like they are every 500 metres. They also have a nice map where you can find all the playgrounds. ![image](https://github.com/arossmann/blog/assets/724188/0f28faa2-b262-40cb-a2b4-5ba661142b80)
 And this density is great, you can go almost anywhere and find a playground to keep the kids busy in no time. And at most playgrounds you can also find toys (left behind by other families) such as sand shovels, buckets, sand moulds etc., which means that if you forget your own things, you can still play.
 
-![image](assets/images/IMG_2113.jpeg)
-![image](assets/images/IMG_2112.jpeg)
-![image](assets/images/IMG_2177.jpeg)
-![image](assets/images/IMG_2178.jpeg)
-![image](assets/images/IMG_2132.jpeg)
-![image](assets/images/IMG_2149.jpeg)
+![image](/assets/images/IMG_2113.jpeg)
+![image](/assets/images/IMG_2112.jpeg)
+![image](/assets/images/IMG_2177.jpeg)
+![image](/assets/images/IMG_2178.jpeg)
+![image](/assets/images/IMG_2132.jpeg)
+![image](/assets/images/IMG_2149.jpeg)
