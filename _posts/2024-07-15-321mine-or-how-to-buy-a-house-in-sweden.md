@@ -7,7 +7,7 @@ author: Arne
 ---
 Gleich vorweg: ich habe noch kein Haus in Deutschland gekaut, kann also keine realen Vergleiche hierzu ziehen und daher auch nicht beurteilen, wie lang oder einfach das ganze in Deutschland funktioniert.
 
-![](assets/images/IMG_0096.jpg)
+![](assets/images/IMG_0096.png)
 
 Aber ich wollte einmal kurz zum Ablauf des Hauskaufes (und dazu zählen auch Wohnungen oder Reihenhäuser mit [Bostadsrätt](https://de.wikipedia.org/wiki/Bostadsr%C3%A4tt)) in Schweden schreiben, da mich das Verfahren hier sehr positiv beeindruckt hat.
 
