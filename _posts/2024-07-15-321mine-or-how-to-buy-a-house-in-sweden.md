@@ -5,11 +5,11 @@ title: 3..2..1..mine - or how to buy a house in Sweden
 categories: Sweden
 author: Arne
 ---
-![](assets/images/IMG_0096.jpg)
-
 Gleich vorweg: ich habe noch kein Haus in Deutschland gekaut, kann also keine realen Vergleiche hierzu ziehen und daher auch nicht beurteilen, wie lang oder einfach das ganze in Deutschland funktioniert.
 
-Aber ich wollte einmal kurz zum Ablauf des Hauskaufes (und dazu zählen auch Wohnungen oder Reihenhäuser mit [Bostadsrätt](https://de.wikipedia.org/wiki/Bostadsrätt)) in Schweden schreiben, da mich das Verfahren hier sehr positiv beeindruckt hat.
+![](assets/images/IMG_0096.jpg)
+
+Aber ich wollte einmal kurz zum Ablauf des Hauskaufes (und dazu zählen auch Wohnungen oder Reihenhäuser mit [Bostadsrätt](https://de.wikipedia.org/wiki/Bostadsr%C3%A4tt)) in Schweden schreiben, da mich das Verfahren hier sehr positiv beeindruckt hat.
 
 Schritt 1: Besichtigung (im obigen Kalender der 06.06.): unter [hemnet.se](http://hemnet.se) werden quasi alle Immobilien zum Kaufen angeboten, da werden quasi auch alle Makler-Angebote mit aufgelistet. Unter [blocket.se](http://blocket.se) findet man zwar auch noch ein paar wenige Angebote, aber eher zur Miete. Auf jeden Fall sucht man sich einfach unter [hemnet.se](http://hemmet.se) eine schöne Immobilie aus und bucht einen Besichtigungstermin. Sollte es über die Plattform nicht mehr gehen (weil man z.B. den eigentlichen Termin knapp verpasst hat), einfach den Makler anschreiben.
 
@@ -31,7 +31,7 @@ Und damit ist man nach wenigen Tagen stolzer Besitzer eine schönen Immobilie in
 
 Disclaimer: I haven't bought a house in Germany yet, so I can't make any real comparisons and therefore can't judge how long or easy the whole process is in Germany.
 
-But I wanted to write briefly about the process of buying a house (including flats or townhouses with [Bostadsrätt](https://sv.wikipedia.org/wiki/Bostadsrätt)) in Sweden, as I was very impressed by the procedure here.
+But I wanted to write briefly about the process of buying a house (including flats or townhouses with [Bostadsrätt](https://sv.wikipedia.org/wiki/Bostadsr%C3%A4tt)) in Sweden, as I was very impressed by the procedure here.
 
 Step 1: Viewing (06.06. in the calendar above): virtually all properties are offered for sale on [hemnet.se](http://hemnet.se), and virtually all estate agent offers are also listed there. At [blocket.se](http://blocket.se) you will also find a few offers, but more for rent. In any case, you can simply look for a nice property on [hemnet.se](http://hemnet.se) and book an appointment to view it. If you can't find a property via the platform (e.g. because you just missed the actual appointment), simply write to the estate agent.
 
