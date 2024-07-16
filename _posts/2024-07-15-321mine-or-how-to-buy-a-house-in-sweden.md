@@ -5,7 +5,7 @@ title: 3..2..1..mine - or how to buy a house in Sweden
 categories: Sweden
 author: Arne
 ---
-Gleich vorweg: ich habe noch kein Haus in Deutschland gekaut, kann also keine realen Vergleiche hierzziehen und daher auch nicht beurteilen, wie lang oder einfach das ganze in Deutschland funktioniert.
+Gleich vorweg: ich habe noch kein Haus in Deutschland gekauft, kann also keine realen Vergleiche hierzu ziehen und daher auch nicht beurteilen, wie lang oder einfach das ganze in Deutschland funktioniert.
 ![calendar](https://github.com/user-attachments/assets/e5b39978-48ef-463c-9b18-54926a6cc725)
 
 Aber ich wollte einmal kurz zum Ablauf des Hauskaufes (und dazu zählen auch Wohnungen oder Reihenhäuser mit [Bostadsrätt](https://de.wikipedia.org/wiki/Bostadsr%C3%A4tt)) in Schweden schreiben, da mich das Verfahren hier sehr positiv beeindruckt hat.
