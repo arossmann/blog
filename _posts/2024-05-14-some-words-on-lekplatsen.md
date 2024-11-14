@@ -1,9 +1,8 @@
 ---
 layout: post
-image: assets/images/IMG_2215 2 Large.jpeg
+image: assets/images/IMG_2113.jpeg
 title: some words on lekplatsen
 categories: Sweden
-image: assets/images/IMG_2215 2 Large.jpeg
 author: arne
 ---
 
