@@ -19,6 +19,7 @@ comments: false
     {% assign title=record.title %}
     {% assign artist=record.artist %}
     {% assign image=record.image %}
+    {% assign record-image=record.record-image %}
     {% include record.html %}
   {% endfor %}
 </div>
