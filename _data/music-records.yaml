@@ -126,12 +126,19 @@
   image: assets/images/vinyl/IMG_0049.jpeg
 - artist: Trentemøller
   title: the Last Resort
+- artist: underworld
+  title: Strawberry Hotel
+  image: assets/images/vinyl/IMG_0405.jpeg
 - artist: Various Artists
   title: A sides vol. 6 part 4 (DC178.4)
   image: assets/images/vinyl/IMG_0792.jpeg
 - artist: Vinicius Honorio
   title: Through the darkness (DC172)
   image: assets/images/vinyl/IMG_0796.jpeg
+- artist: Wardruna
+  title: Birna
+  image: assets/images/vinyl/IMG_0418.jpeg
+  record-image: assets/images/vinyl/IMG_0419.jpeg
 - artist: Wardruna
   title: Kvitravn
 - artist: Will & Ink
