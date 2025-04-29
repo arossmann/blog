@@ -6,6 +6,7 @@ categories: Sweden
 author: Arne
 ---
 (deutsch steht unten)
+
 I was asked to provide a bit of summary of the first months in Sweden. As usual, it turned out to be not just after three months, but after a year. So, here it is. :-)
 
 ## Life
@@ -13,7 +14,7 @@ I would say the main difference between Germany and Sweden is that things are no
 In general, a lot of emphasis is placed on leisure time, family time and health. I see people jogging or doing sports in the utegym all the time. And taking the kids to school and work by bike? That's also more ‘normal’. Of course, this is even more pronounced in countries like the Netherlands or Denmark, but it's nice to see that the city is focussing on sustainable and inclusive infrastructure for everyone.
 Another big difference to Germany is definitely the high level of digitalisation. Cash? exists in theory and is still used by very few people. But it feels like 95% of life is done entirely via ApplePay/GooglePay, credit card or Swish.
 And the internet is also very fast. 5G is virtually everywhere and you don't have to worry about pages taking ages to load. At home there is fibre optic with 1 Gbit/s (both directions! ;-) ).
-![internetspeed](assets/images/IMG_0601.jpg)
+![internetspeed](/assets/images/IMG_0601.jpg)
 
 ## People
 In general, the Swedes are very friendly and helpful. They are also very open and like to listen. We have very good contact with the neighbours and we also chat with some of the little one's parents from the Förskola when the kids play together in the afternoon. But what stands out is that family is the number one priority and always comes first. Friends then come at some point. But that also means that it's not so easy to make real friends here as an adult. Many friendships in Sweden were formed as children and then stay for a long time.
