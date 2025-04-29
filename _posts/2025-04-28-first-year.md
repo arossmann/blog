@@ -6,6 +6,7 @@ categories: Sweden
 author: Arne
 ---
 (deutsch steht unten)
+I was asked to provide a bit of summary of the first months in Sweden. As usual, it turned out to be not just after three months, but after a year. So, here it is. :-)
 
 ## Life
 I would say the main difference between Germany and Sweden is that things are not seen as stressful and are better balanced. Typical example: In Sweden, it's normal to have to pick up your child from (för)skola in the afternoon. And that can sometimes clash with other calls. Well, that's just the way it is. There's no discussion about that.  And the Swedes are also generally busy, of course, and are sometimes in a bit of a hurry when they go to work or something. But all in all, they're not as overly stressed as they are in many German cities. And you shouldn't forget: Gothenburg is the second largest city in Sweden.
@@ -26,6 +27,8 @@ As in Germany, the landscape in Sweden is very varied. In the north there is a l
 
 
 --
+Ich wurde gebeten, ein kleines Resümee über die ersten Monate in Schweden zu ziehen. Wie üblich war das nicht nur nach drei Monaten, sondern nach einem Jahr der Fall. Also, hier ist es. :-)
+
 ## Leben
 Ich würde sagen, der wichtigste Unterschied zwischen Deutschland und Schweden ist, dass die Dinge nicht so stressig gesehen werden und im besseren Ausgleich sind. Typisches Beispiel: In Schweden ist es normal, dass man sein Kind am Nachmittag von der (för)skola abholen muss. Und das kann halt auch mal mit anderen Calls kollidieren. Gut, ist halt so. Da gibt es keine Diskussion.  Und auch generell sind die Schweden natürlich beschäftigt, sind teilweise auch mal etwas in Eile, wenn es auf Arbeit geht oder so. Aber alles in allem nicht so übermäßig gestresst, wie es einem in vielen deutschen Städten vorkommt. Und man darf nicht vergessen: Göteborg ist die zweitgrößte Stadt Schwedens.
 Generell wird auch viel Wert auf Freizeit, Zeit mit Familie und auch Gesundheit gelegt. Ich sehe hier dauernd welche joggen oder im utegym Sport machen. Und mit dem Fahrrad die Kids in die Schulke bringen und auf Arbeit fahren? Ist auch "normaler". Klar, in Ländern wie Niederlande oder Dänemark ist das nochmal ausgeprägter, aber schon schön, dass hier seitens Stadt Wert auf eine nachhaltige und inklusive Infrastruktur für alle gesetzt wird.
