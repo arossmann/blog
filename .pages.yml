@@ -22,7 +22,7 @@ content:
       - { name: body, label: Body, type: rich-text }
   - name: music_records
     label: Music Records
-    path: _data/music-records.yaml
+    path: _data/music-records2.yaml
     view:
       fields: [ title, artist, image ]
     type: file
