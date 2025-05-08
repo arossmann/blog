@@ -1,4 +1,151 @@
-title: test
-artist: test
-image: assets/images/vinyl/IMG_0040.jpeg
-record-image: assets/images/vinyl/IMG_0042.jpeg
+- title: Sky and Sand
+  artist: Paul Kalkbrenner
+  image: assets/images/vinyl/IMG_0761.jpeg
+- artist: Apocalyptica
+  title: plays Metallica by four cellos
+  image: assets/images/vinyl/IMG_1498.jpeg
+- artist: Billie Eilish
+  title: when we all fall asleep where do we go?
+  image: assets/images/vinyl/IMG_1030.jpeg
+  record-image: assets/images/vinyl/IMG_0774_1.jpeg
+- artist: Björk
+  title: Fossora
+  image: assets/images/vinyl/IMG_0759.jpeg
+- artist: Booka Shade
+  title: Dear Future Self
+  image: assets/images/vinyl/IMG_2252.jpeg
+- artist: Charles Bradly
+  title: Victim of love
+  image: assets/images/vinyl/IMG_0446.jpeg
+- artist: Charlotte de Witte
+  title: selected EP
+  image: assets/images/vinyl/IMG_1630.jpeg
+- artist: Charlotte de Witte
+  title: KNTXT 002
+  image: assets/images/vinyl/IMG_1631.jpeg
+- artist: The Chemical Brothers
+  title: dig your own hole
+  image: assets/images/vinyl/IMG_0912.jpeg
+  record-image: assets/images/vinyl/IMG_0913.jpeg
+- artist: The Chemical Brothers
+  title: Exit planet dust
+  image: assets/images/vinyl/IMG_0413.jpeg
+- artist: Chris Liebing
+  title: burn slow
+  image: assets/images/vinyl/IMG_0127.jpg
+- artist: Chris Liebing
+  title: another day
+- artist: Daft Punk
+  title: Discovery
+  image: assets/images/vinyl/IMG_0812.jpeg
+- artist: Fat Boy Slim
+  title: You‘ve come a long way, baby (20th Anniversary Deluxe Edition) Double Vinyl LP
+  image: assets/images/vinyl/IMG_0770.jpeg
+- artist: Fat Boy Slim
+  title: The Best Of Double Vinyl
+  image: assets/images/vinyl/IMG_2003.jpeg
+- artist: Georg Fitzgerald
+  title: all that Must be (Colored Vinyl Edition)
+  image: assets/images/vinyl/IMG_0773.jpeg
+  record-image: assets/images/vinyl/IMG_0774.jpeg
+- artist: Fritz Kalkbrenner
+  title: Drown
+  image: assets/images/vinyl/IMG_0795.jpeg
+- artist: Paul & Fritz Kalkbrenner
+  title: sky & sand
+  image: assets/images/vinyl/IMG_0761.jpeg
+- artist: Paul Kalkbrenner
+  title: Berlin Callung
+  image: assets/images/vinyl/IMG_1497.jpeg
+- artist: Paul Kalkbrenner
+  title: Guten Tag
+  image: assets/images/vinyl/IMG_0760.jpeg
+- artist: Paul Kalkbrenner
+  title: Icke Wieder
+  image: assets/images/vinyl/IMG_0746.jpeg
+- artist: Marek Hemmann
+  title: in between
+  image: assets/images/vinyl/IMG_1632.jpeg
+- artist: Massive Attack
+  title: Mezzanine
+  image: assets/images/vinyl/IMG_0417.jpeg
+- artist: Mathias Kaden
+  title: Energetic
+  image: assets/images/vinyl/IMG_1633.jpeg
+  record-image: assets/images/vinyl/IMG_1635.jpeg
+- artist: Metallica
+  title: Black
+- artist: Metallica
+  title: S&M2 Limited Colored Vinyl Edition
+  image: assets/images/vinyl/IMG_2250.jpeg
+  record-image: assets/images/vinyl/IMG_2251.jpeg
+- artist: Mike Oldfield
+  title: Tubular Bells
+  image: assts/images/vinyl/IMG_0758.jpeg
+- artist: Moby
+  title: everything was beautiful and nothing hurt
+  image: assets/images/vinyl/IMG_0772.jpeg
+- artist: Moby
+  title: The Remixes (DC164.2)
+  images: assets/images/vinyl/IMG_0797.jpeg
+- artist: Nils Petter Molvær
+  title: Khmer
+  image: assets/images/vinyl/IMG_0050.jpeg
+- artist: Moonbootica
+  title: Future
+  image: assets/images/vinyl/IMG_0914.jpeg
+- artist: Nirvana
+  title: Nevermind
+- artist: Parov Stelar
+  title: Live @ Pukkelpop
+  image: assets/images/vinyl/IMG_0794.jpeg
+- artist: Parov Stelar
+  title: the Art of sampling
+  image: assets/images/vinyl/IMG_0790.jpeg
+- artist: Parov Stelar
+  title: the demon diaries
+  image: assets/images/vinyl/IMG_0638.jpeg
+- artist: Parov Stelar
+  title: Voodoo Sonic
+  image: assets/images/vinyl/IMG_1163_2.jpg
+- artist: The Prodigy
+  title: No Tourists
+  record-image: assets/images/vinyl/IMG_1133.jpeg
+  image: assets/images/vinyl/IMG_1134.jpeg
+- artist: Schiller
+  title: Future
+  record-image: assets/images/vinyl/IMG_553963145_Medium.jpeg
+  image: assets/images/vinyl/IMG_553963121_Medium.jpeg
+- artist: Schiller
+  title: Morgenstund
+  image: assets/images/vinyl/IMG_0414.jpeg
+  record-image: assets/images/vinyl/IMG_0415.jpeg
+- artist: Schiller
+  title: Zeitreise live
+  record-image: assets/images/vinyl/IMG_553963080_Medium.jpeg
+  image: assets/images/vinyl/IMG_553963058_Medium.jpeg
+- artist: Solomun
+  title: Nobody Is Not Loved White Vinyl Edition
+- artist: St Germain
+  title: Tourist (remastered)
+  image: assets/images/vinyl/IMG_0049.jpeg
+- artist: Trentemøller
+  title: the Last Resort
+- artist: underworld
+  title: Strawberry Hotel
+  image: assets/images/vinyl/IMG_0405.jpeg
+- artist: Various Artists
+  title: A sides vol. 6 part 4 (DC178.4)
+  image: assets/images/vinyl/IMG_0792.jpeg
+- artist: Vinicius Honorio
+  title: Through the darkness (DC172)
+  image: assets/images/vinyl/IMG_0796.jpeg
+- artist: Wardruna
+  title: Birna
+  image: assets/images/vinyl/IMG_0418.jpeg
+  record-image: assets/images/vinyl/IMG_0419.jpeg
+- artist: Wardruna
+  title: Kvitravn
+- artist: Will & Ink
+  title: remixed
+  image: assets/images/vinyl/IMG_0791.jpeg
