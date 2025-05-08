@@ -20,3 +20,23 @@ content:
         }
       - { name: author, label: Authors, type: string }
       - { name: body, label: Body, type: rich-text }
+  - name: music_records
+    label: Music Records
+    path: _data/music-records.yaml
+    type: file
+    fields:
+      - name: title
+        label: Record title
+        type: string
+      - name: artist
+        label: Artist
+        type: string
+      - name: image
+        label: cover image
+        type: image
+        description: The cover image
+      - name: record-image
+        label: record image
+        type: image
+        description: The record image
+    
