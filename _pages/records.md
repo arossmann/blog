@@ -5,7 +5,7 @@ permalink: /vinyl
 comments: false
 ---
 
-I remember the days when my father played an old record from Mike Oldfield - tubular bells. The soft sound of the vinyl was burned in my head. And in early 2018 I couldn't resist to walk into an audio store, listen to some combinations of turntables and speakers and finally buy a nice combination. That was the starting point of my vinyl collection.
+I remember the days when my father played an old record from Mike Oldfield - tubular bells. The soft sound of the vinyl was burned in my head beside the vibrant music. And in early 2018 I couldn't resist to walk into an audio store, listen to some combinations of turntables and speakers and finally buy a nice combination. That was the starting point of my vinyl collection.
 
 ## Hardware
 
