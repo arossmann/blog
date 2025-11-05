@@ -5,7 +5,7 @@ title: home stop over
 categories: Blog
 author: arne
 ---
-Als Teil der Gesamtreise heißt es heute: Zwischenstopp in Jena und nochmal einen Teil der Familie besucht. Der Tag wird etwas entspannter angegangen und es gibt noch mal ne schöne Runde mit dem Hund. Denn der möchte ja sich auch  ein bisschen bewegen bevor es dann morgen ganz früh heißt: “bye bye Jena” und auf ab auf die Autobahn und auf dem Weg in Richtung Göteborg. Heute Abend kommt da noch Kumpel  vorbei und wir fahren dann morgen zusammen zu dritt nach Göteborg.
+Als Teil der Gesamtreise heißt es heute: Zwischenstopp in Jena und nochmal einen Teil der Familie besucht. Der Tag wird etwas entspannter angegangen und es gibt noch mal ne schöne Runde mit dem Hund. Denn der möchte ja sich auch  ein bisschen bewegen bevor es dann morgen ganz früh heißt: “bye bye Jena” und auf ab auf die Autobahn und auf dem Weg in Richtung Göteborg. Heute Abend kommt noch mein Kumpel vorbei und wir fahren dann morgen zusammen zu dritt nach Göteborg.
 
 \--
 
