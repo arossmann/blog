@@ -1,0 +1,20 @@
+when:
+  - event: push
+    branch: main
+
+clone:
+  - name: git
+    image: woodpeckerci/plugin-git
+
+steps:
+  - name: buildandpush
+    image: woodpeckerci/plugin-docker-buildx
+    settings:
+      repo: forgejo.maccaffeine.de/arossman/blog
+      registry: forgejo.maccaffeine.de
+      platforms: linux/amd64,linux/arm64/v8
+      tags: latest
+      username:
+        from_secret: docker_username
+      password:
+        from_secret: docker_password
